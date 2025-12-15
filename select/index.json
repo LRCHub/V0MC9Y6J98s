@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Sad number",
+  "base_artist": "Laura day romance",
+  "createdAt": "2025-12-15T17:36:49.408990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sad number",
+      "artist": "Laura day romance",
+      "has_synced": true,
+      "path": "select/01_Sad_number_Laura_day_romance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sad number",
+      "artist": "Laura day romance",
+      "has_synced": false,
+      "path": "select/pl_01_Sad_number_Laura_day_romance.txt"
+    }
+  ]
+}
